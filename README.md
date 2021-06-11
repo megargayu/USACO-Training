@@ -58,8 +58,8 @@ public class TASK_NAME {
 ```
 Where `TASK_NAME` is replaced with the actual task name.
 
-Bat files follow this format (VTL):
-```vtl
+Bat files follow this format:
+```
 @ECHO off
 mkdir bin
 javac -d bin ${NAME}.java
