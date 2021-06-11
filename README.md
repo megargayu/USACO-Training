@@ -38,6 +38,9 @@ imported by IntelliJ from .idea/workspace.xml. To use it, you have to the follow
 4. Select `USACO Training Problem` from the popup and enter in the file name of the problem (ex. `milk3`)
 5. All the files should be generated, including boilerplate input and output code!
 
+**You also need to make sure that the Java 8 JDK is on path, meaning you can run `java -version` and `javac -version`
+anywhere on your system and it returns something similar to `1.8.0_291`**
+
 However, before you use it, you need to replace the `ID` with your own id. To do this, go to `New > Edit File
 Templates`, and scroll all the way down to "USACO Training Problem". Click on "USACO Training Problem" and in the 
 sidebar that appears, remove `megarga1` and instead input your own id.
