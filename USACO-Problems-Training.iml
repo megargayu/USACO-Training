@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section2/friday" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section2/gift1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section2/ride" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section2/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section2/beads" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section3/milk2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section3/namenum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section3/palsquare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section3/transform" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section3/dualpal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/milk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/barn1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/crypt1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/combo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/wormhole" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section4/skidesign" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section5/ariprog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section5/milk3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section6/numtri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section6/pprime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section6/sprime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/castle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/frac1" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8.0_291" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
