@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter1/Section6/sprime" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/castle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/frac1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/holstein" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section1/sort3" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8.0_291" jdkType="JavaSDK" />
