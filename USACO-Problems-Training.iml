@@ -33,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section2/preface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section2/subset" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section2/runround" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/company/Chapter2/Section2/lamps" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8.0_291" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
