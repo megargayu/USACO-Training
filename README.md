@@ -25,7 +25,6 @@ Under each problem folder is the following:
 - A `.in` file, which takes the input of the program
 - A `.out` file, which is where the program outputs
 - A `.java` file, which contains all the code used
-- A `.bat` file, which is used to run the program, as IntelliJ doesn't allow for relative file reading
 
 ## Template
 
@@ -73,24 +72,8 @@ old and in Java 8 Java itself recommends using `String.split()` over `StringToke
 > code. It is recommended that anyone seeking this functionality use the split method of String or the 
 > java.util.regex package instead.
 
-
-Bat files follow this format:
-```
-@ECHO off
-mkdir bin
-javac -d bin ${NAME}.java
-copy ${NAME}.in bin\\${NAME}.in > nul
-copy ${NAME}.out bin\\${NAME}.out > nul
-cd bin
-java ${NAME}
-cd..
-move bin\\${NAME}.out ${NAME}.out > nul
-rmdir /q /s bin
-```
-Where `${NAME}` is replaced with the name of the task.
-
 ## Running
 
-In order to run any of these programs, run the `.bat` file in the directory. I recommend using the [Batch Scripts 
-Support Plugin](https://plugins.jetbrains.com/plugin/265-batch-scripts-support) for IntelliJ which I use in order to run
-my programs. 
+In order to run any of these programs, run the java file, with a custom Run Configuration. In the Run Configuration,
+set the working directory to `$FileDir$` (this will run the program in the current directory so it can see the files
+it needs for input/output).

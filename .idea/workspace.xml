@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="631fa601-397f-4891-af7e-8e4437125989" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section2/beads/beads.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section2/friday/friday.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section2/gift1/gift1.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section2/ride/ride.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section2/test/test.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section3/dualpal/dualpal.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section3/milk2/milk2.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section3/namenum/namenum.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section3/palsquare/palsquare.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section3/transform/transform.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/barn1/barn1.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/combo/combo.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/crypt1/crypt1.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/milk/milk.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/skidesign/skidesign.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section4/wormhole/wormhole.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section5/ariprog/ariprog.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section5/milk3/milk3.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section6/numtri/numtri.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section6/pprime/pprime.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter1/Section6/sprime/sprime.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section1/castle/castle.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section1/frac1/frac1.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section1/hamming/hamming.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section1/holstein/holstein.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section1/sort3/sort3.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section2/lamps/lamps.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section2/preface/preface.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section2/runround/runround.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Chapter2/Section2/subset/subset.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="USACO Training Problem.java.child.2" />
+        <option value="USACO Training Problem.java.child.0" />
+        <option value="USACO Training Problem.java.child.1" />
+        <option value="USACO Training Problem" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/Chapter2/Section2/lamps/lamps.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/Chapter2/Section2/lamps/lamps.in" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="3ll2qnzh" />
+  </component>
+  <component name="ProjectId" id="1qrLmXBAwEj26ixR8H22Pz2l1Hk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/Chapter2/Section2/lamps" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17309417" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="USACO-Problems-Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lamps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamps" />
+      <module name="USACO-Problems-Training" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lamps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="631fa601-397f-4891-af7e-8e4437125989" name="Default Changelist" comment="" />
+      <created>1617832923208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617832923208</updated>
+      <workItem from="1617833065758" duration="6335000" />
+      <workItem from="1617901449862" duration="3705000" />
+      <workItem from="1617905224013" duration="1270000" />
+      <workItem from="1617910280785" duration="49000" />
+      <workItem from="1617985181247" duration="2229000" />
+      <workItem from="1617987577541" duration="2195000" />
+      <workItem from="1618009202499" duration="43000" />
+      <workItem from="1619043809732" duration="8062000" />
+      <workItem from="1619137402102" duration="27000" />
+      <workItem from="1619380704283" duration="4875000" />
+      <workItem from="1619536908327" duration="494000" />
+      <workItem from="1619559049020" duration="77000" />
+      <workItem from="1619651339214" duration="5732000" />
+      <workItem from="1619745043565" duration="27000" />
+      <workItem from="1619894235330" duration="1547000" />
+      <workItem from="1620233247393" duration="6511000" />
+      <workItem from="1620250505233" duration="1360000" />
+      <workItem from="1620253753116" duration="601000" />
+      <workItem from="1620260626173" duration="1610000" />
+      <workItem from="1620262628248" duration="7000" />
+      <workItem from="1620325945626" duration="2595000" />
+      <workItem from="1620439541626" duration="87000" />
+      <workItem from="1620439646485" duration="285000" />
+      <workItem from="1620952077508" duration="253000" />
+      <workItem from="1620952355502" duration="864000" />
+      <workItem from="1620955268399" duration="2400000" />
+      <workItem from="1621009977717" duration="5000" />
+      <workItem from="1621035282478" duration="4422000" />
+      <workItem from="1621042244478" duration="129000" />
+      <workItem from="1622336215590" duration="1886000" />
+      <workItem from="1622401355336" duration="6053000" />
+      <workItem from="1622474724460" duration="5000" />
+      <workItem from="1622499467853" duration="4950000" />
+      <workItem from="1622578869848" duration="1872000" />
+      <workItem from="1622657628579" duration="1825000" />
+      <workItem from="1622659864967" duration="1862000" />
+      <workItem from="1622667922106" duration="3791000" />
+      <workItem from="1622748323999" duration="2829000" />
+      <workItem from="1622751209768" duration="6354000" />
+      <workItem from="1622763281473" duration="2213000" />
+      <workItem from="1622820509611" duration="28000" />
+      <workItem from="1622913754201" duration="872000" />
+      <workItem from="1622940109685" duration="23000" />
+      <workItem from="1623098110534" duration="59000" />
+      <workItem from="1623098194421" duration="5042000" />
+      <workItem from="1623103869647" duration="629000" />
+      <workItem from="1623110181464" duration="1419000" />
+      <workItem from="1623164478404" duration="2304000" />
+      <workItem from="1623367502152" duration="15000" />
+      <workItem from="1623368037698" duration="3698000" />
+      <workItem from="1623372261580" duration="1105000" />
+      <workItem from="1623373397496" duration="444000" />
+      <workItem from="1623434794845" duration="1144000" />
+      <workItem from="1623435990638" duration="784000" />
+      <workItem from="1623450233539" duration="239000" />
+      <workItem from="1623463071045" duration="202000" />
+      <workItem from="1623519801144" duration="689000" />
+      <workItem from="1623611054655" duration="29000" />
+      <workItem from="1623690552908" duration="2367000" />
+      <workItem from="1623693056667" duration="4411000" />
+      <workItem from="1623697671417" duration="502000" />
+      <workItem from="1623699963705" duration="13000" />
+      <workItem from="1623702492682" duration="1000" />
+      <workItem from="1624028437691" duration="5675000" />
+      <workItem from="1624213389832" duration="355000" />
+      <workItem from="1624214633365" duration="3636000" />
+      <workItem from="1624222949055" duration="1257000" />
+      <workItem from="1624236818684" duration="2567000" />
+      <workItem from="1624293306224" duration="1390000" />
+      <workItem from="1624314686623" duration="20000" />
+      <workItem from="1624320437931" duration="424000" />
+      <workItem from="1624395706536" duration="1510000" />
+      <workItem from="1624551842624" duration="127000" />
+      <workItem from="1624552821804" duration="2794000" />
+      <workItem from="1624556869905" duration="972000" />
+      <workItem from="1624632813329" duration="608000" />
+      <workItem from="1624672487837" duration="289000" />
+      <workItem from="1624726792179" duration="1574000" />
+      <workItem from="1624757886241" duration="623000" />
+      <workItem from="1624827369997" duration="2504000" />
+      <workItem from="1624831366507" duration="7690000" />
+      <workItem from="1624903828620" duration="6636000" />
+      <workItem from="1624985749251" duration="6938000" />
+      <workItem from="1625077171437" duration="300000" />
+      <workItem from="1625077721898" duration="1227000" />
+      <workItem from="1625078981550" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
